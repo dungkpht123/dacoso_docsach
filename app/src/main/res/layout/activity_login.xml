@@ -119,5 +119,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:padding="10dp"
+        android:textSize="2dp"
+        android:layout_marginEnd="20dp"
         android:text="@string/new_user_signup" />
 </RelativeLayout>

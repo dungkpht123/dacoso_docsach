@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1005" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/ic_email_gray.xml" value="0.1705" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1005" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/ic_lock_gray.xml" value="0.157" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/ic_pdf_white.xml" value="0.147" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/shape_button01.xml" value="0.1235" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/shape_edittext01.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/shape_toobar02.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/drawable/shape_toolbar01.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_category_add.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.136" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_dashboard_user.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_forgotpassword.xml" value="0.12" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/HK3/DOCOSO3/dacoso_docsach/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

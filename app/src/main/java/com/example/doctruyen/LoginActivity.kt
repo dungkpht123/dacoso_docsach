@@ -46,6 +46,9 @@ class LoginActivity : AppCompatActivity() {
 //            if admin move  to admin dashboard
             validateData()
         }
+        binding.forgotTV.setOnClickListener {
+            startActivity(Intent(this,ForgotpasswordActivity::class.java))
+        }
     }
     private var password = ""
     private var email = ""
