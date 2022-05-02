@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">doctruyen</string>
+    <string name="app_name">TD Book</string>
+    <string name="msg_token_fmt" />
+    <string name="new_user_signup">New User?<b>SignUp</b></string>
 </resources>
